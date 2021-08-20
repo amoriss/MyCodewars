@@ -8,6 +8,7 @@ namespace Codewars
         {
             Console.WriteLine("Hello World!");
         }
+        // A Strange Trip To The Market - https://www.codewars.com/kata/55ccdf1512938ce3ac000056
         //public static bool IsLockNessMonster(string sentence)
         //{
         //    // FIND THE LOCH NESS MONSTER. SAVE YOUR TREE FIDDY
